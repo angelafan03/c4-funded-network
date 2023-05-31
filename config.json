@@ -8,8 +8,8 @@
     "text": ""
   },
   "text": {
-    "more": "How to read the network graph:\n\n- The size of each node/label and the thickness of the lines reflect how many applications that host country has sent out\n- Each node and line is color coded: Purple/Africa, Green/Americas, Blue/Asia, Orange/Europe, Teal/Middle East, Pink/Oceania\n- Each line has an arrow to show the host country pointing to the archival country, and lines are color coded by host country\n- Nodes with no lines going in or out represent countries that are their own host and archival country\n",
-    "intro": "Total Funded Applications: 28\n\nBy Host Region:\nAsia: 6\nAfrica: 9\nAmericas: 1\nMiddle East: 0\nEurope: 2\n\nFunded applications where host and archival country are the same: 21\n\nFunded applications where host and archival country are different: 7\n\n",
+    "more": "How to read the network graph:<br>\n\n- The size of each node/label and the thickness of the lines reflect how many applications that host country has sent out<br>\n- Each node and line is color coded: Purple/Africa, Green/Americas, Blue/Asia, Orange/Europe, Teal/Middle East, Pink/Oceania\n<br>- Each line has an arrow to show the host country pointing to the archival country, and lines are color coded by host country\n<br>- Nodes with no lines going in or out represent countries that are their own host and archival country\n",
+    "intro": "Total Funded Applications: 28\n\n<br>By Host Region:<br>\nAsia: 6<br>\nAfrica: 9<br>\nAmericas: 1<br>\nMiddle East: 0<br>\nEurope: 2<br>\n\nFunded applications where host and archival country are the same: 21<br>\n\nFunded applications where host and archival country are different: 7\n\n",
     "title": ""
   },
   "legend": {
