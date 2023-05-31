@@ -67,7 +67,7 @@ function initSigma(config) {
     	graphProps=config.sigma.graphProperties;
     else
     	graphProps={
-        minNodeSize: 4,
+        minNodeSize: 3,
         maxNodeSize: 20,
         minEdgeSize: 2,
         maxEdgeSize: 5
